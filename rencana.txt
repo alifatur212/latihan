@@ -8,4 +8,9 @@ rencana
     - dll
 2. membuat video perhitungan dengan materi sama seperti artikel
 3. membuat website portofolio
+    - pamer portofolio
+    - pamer tulisan
+    - pamer materi
+    - pamer scrapping
+    - dll
 4. scrapping data dari artikel yang aku tulis di medium, lalu ditampilkan di website pribadi
