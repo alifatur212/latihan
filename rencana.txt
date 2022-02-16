@@ -1,4 +1,10 @@
 rencana
-1. membuat artikel tentang materi algoritma beserta
+1. membuat artikel tentang materi algoritma beserta perhitungan manual nya.
+    - AHP
+    - SAW
+    - KNN
+    - Naive bayes
+    - SVM
+    - dll
 2. membuat video perhitungan dengan materi sama seperti artikel
 3. membuat website portofolio
